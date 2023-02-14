@@ -1,0 +1,17 @@
+.AppreciationCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Selection {
+  color: #cf6214;
+  background-color: #2b313a;
+  padding: 0.25rem 1rem;
+  border-radius: 2rem;
+}
+
+.Appreciation {
+  color: #727b8b;
+  text-align: center;
+}
